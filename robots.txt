@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erlang-calculator-phi.vercel.app/sitemap.xml
